@@ -1,0 +1,352 @@
+[
+  {
+    "id": "1",
+    "name": "Red Barn Stores 3858-CUAJIMALPA",
+    "address": "JOSE MA. CASTORENA NO. 84  COL. SAN JOSE DE LOS CEDROS, DELEGACION CUAJIMALPA   MEXICO D.F. C.P. 05210",
+    "lat": "19.36293",
+    "long": "-99.287"
+  },
+  {
+    "id": "2",
+    "name": "Red Barn Stores 2344-LOMAS",
+    "address": "BOULEVARD MANUEL AVILA CAMACHO NO. 491 COL. PERIODISTAS C.P.11220",
+    "lat": "19.439070",
+    "long": "-99.214200"
+  },
+  {
+    "id": "3",
+    "name": "Red Barn Stores 1770-PATIO SANTA FE",
+    "address": "AV. PROLONGACIÓN PASEO DE LA REFORMA NO. 400, ENTRE LAS CALLES: AVENIDA VASCO DE QUIROGA  Y DE AVENIDA PASEO DE LA REFORMA, COL. SANTA FE,  DELEGACIÓN ÁLVARO OBREGÓN CP  01210",
+    "lat": "19.377385",
+    "long": "-99.254942"
+  },
+  {
+    "id": "4",
+    "name": "Red Barn Stores 2466-CUITLAHUAC",
+    "address": "AV. CUITLÁHUAC NO. 3651 COL. HOGAR Y SEGURIDAD DELEG. AZCAPOTZALCO C.P.02820",
+    "lat": "19.48698",
+    "long": "-99.18594"
+  },
+  {
+    "id": "5",
+    "name": "Red Barn Stores 3862-AZCAPOTZALCO",
+    "address": "AV. NEXTENGO NO. 78 COL. SANTA CRUZ ACAYUCAN , MEXICO D.F. C.P. 02770",
+    "lat": "19.0173204",
+    "long": "-98.2103726"
+  },
+  {
+    "id": "6",
+    "name": "Red Barn Stores 2347-TLAHUAC",
+    "address": "CALZ. TLÁHUAC NO. 5662  COL. SAN LORENZO TEZONCO  DELEG. TLÁHUAC, MEXICO DF. C.P. 13266",
+    "lat": "19.0173204",
+    "long": "-98.2103726"
+  },
+  {
+    "id": "7",
+    "name": "Red Barn Stores 2464-MIRAMONTES ",
+    "address": "AV. ESCUELA NAVAL MILITAR # 753 ESQ. AV. CANAL DE MIRAMONTES DELEG. COYOACÁN C.P. 04890",
+    "lat": "27.35564",
+    "long": "-104.9143"
+  },
+  {
+    "id": "8",
+    "name": "Red Barn Stores 2670-TLALPAN",
+    "address": "CALZADA TLALPAN NO. 1037  COL. AMERICAS UNIDAS C.P. 03500 DELEG. BENITO JUÁREZ",
+    "lat": "19.38110494504809",
+    "long": "-99.14068924657388"
+  },
+  {
+    "id": "9",
+    "name": "Red Barn Stores 3857-VILLA COAPA",
+    "address": "AV. CANAL DE MIRAMONTES NO. 3520 COL. SAN BARTOLO COAPA  C.P. 14390, MEXICO, D.F.",
+    "lat": "19.29330675522504",
+    "long": "-99.12370855981197"
+  },
+  {
+    "id": "10",
+    "name": "Red Barn Stores 2345-TEPEYAC",
+    "address": "CALZ. DE GUADALUPE NO. 431 COL. GUADALUPE TEPEYAC C.P.07840 DELEG. GUSTAVO A. MADERO",
+    "lat": "19.472124035554582",
+    "long": "-99.12069954799256"
+  },
+  {
+    "id": "11",
+    "name": "Red Barn Stores 3794-ACUEDUCTO DE GUADALUPE",
+    "address": "AV. LUIS ESPINOZA NO.  160 COL. SANTIAGO ATEPETLAC, DELEGACION GUSTAVO A. MADERO MEXICO D.F. C.P. 07200",
+    "lat": "19.531194082331133",
+    "long": "-99.15607061748119"
+  },
+  {
+    "id": "12",
+    "name": "Red Barn Stores 3846-BUENAVISTA",
+    "address": "INSURGENTES NORTE NO. 131, COL GUERRERO C.P. 06300   MEXICO, D.F.",
+    "lat": "19.444089308776526",
+    "long": "-99.15332867330365"
+  },
+  {
+    "id": "13",
+    "name": "Red Barn Stores 3851-AEROPUERTO",
+    "address": "CALZADA IGNACIO ZARAGOZA NO. 58   COL. FEDERAL  C.P. 15700, MEXICO D.F.",
+    "lat": "19.419854771383193",
+    "long": "-99.09418100213956"
+  },
+  {
+    "id": "14",
+    "name": "Red Barn Stores 3872-BALBUENA",
+    "address": "FRAY SERVANDO TERESA DE MIER NO. 881 COL.  JARDIN BALBUENA C.P. 15900, MEXICO D.F.",
+    "lat": "19.417703328483885",
+    "long": "-99.10573648679694"
+  },
+  {
+    "id": "15",
+    "name": "Red Barn Stores 3877-TORRES  LINDAVISTA",
+    "address": "MIGUEL OTHON DE MENDIZABAL OTE. 343, COL. NUEVA INDUSTRIAL VALLEJO,  C.P. 07700 MÉXICO, D.F",
+    "lat": "19.50633278266733",
+    "long": "-99.14456445981014"
+  },
+  {
+    "id": "16",
+    "name": "Red Barn Stores 4547-EDUARDO MOLINA",
+    "address": "CALZADA SAN JUAN DE ARAGÓN NO. 516 COLONIA D.M. NACIONAL DELEGARCIÓN GUSTAVO A. MADERO D.F. C.P. 7090",
+    "lat": "19.479186162927487",
+    "long": "-99.09682606673209"
+  },
+  {
+    "id": "17",
+    "name": "Red Barn Stores 2430-COPILCO",
+    "address": "AV. COPILCO NO. 164 COL. OXTOPULCO DEL. COYOACAN C.P. 04318",
+    "lat": "19.338309775060743",
+    "long": "-99.18418387330458"
+  },
+  {
+    "id": "18",
+    "name": "Red Barn Stores 2689-FELIX CUEVAS",
+    "address": "AV. SAN FRANCISCO NO. 1621 COL. DEL VALLE DEL. BENITO JUÁREZ C.P. 03100",
+    "lat": "19.372838557897932",
+    "long": "-99.1758457021399"
+  },
+  {
+    "id": "19",
+    "name": "Red Barn Stores 3845-UNIVERSIDAD",
+    "address": "AV. UNIVERSIDAD NO. 936-A COL. SANTA CRUZ ATOYAC   C.P. 03310, MEXICO D.F.",
+    "lat": "19.368758216673232",
+    "long": "-99.16408348679732"
+  },
+  {
+    "id": "20",
+    "name": "Red Barn Stores 3848-TAXQUEÑA",
+    "address": "MIGUEL A. DE QUEVEDO NO. 175 COL. CHIMALISTAC DELEGACION COYOACAN C.P. 01070, MEXICO D.F.",
+    "lat": "19.346648755925937",
+    "long": "-99.18120970214015"
+  },
+  {
+    "id": "21",
+    "name": "Red Barn Stores 3852-PLATEROS",
+    "address": "BLVD. ADOLFO LOPEZ MATEOS NO. 1701 COL. LOMAS DE PLATEROS, DELEG. ALVARO OBREGON C.P. 01460 MEXICO D.F.",
+    "lat": "19.36980925859796",
+    "long": "-99.19387544332604"
+  },
+  {
+    "id": "22",
+    "name": "Red Barn Stores 3863-PERIFERICO SUR",
+    "address": "AV. CENTRO COMERCIAL NO. 190 COL. INSURGENTES CUICUILCO C.P. 04530 MEXICO, D.F.",
+    "lat": "19.306427037937507",
+    "long": "-99.18730940214051"
+  },
+  {
+    "id": "23",
+    "name": "Red Barn Stores 3876-LAS AGUILAS",
+    "address": "LAS AGUILAS NO. 820 COL. LAS AGUILAS C.P. 01710  ALVARO OBREGON MEXICO D.F.",
+    "lat": "19.35287283215342",
+    "long": "-99.21533767330449"
+  },
+  {
+    "id": "24",
+    "name": "Red Barn Stores 1580-EL ROSARIO",
+    "address": "AV. EL ROSARIO NO. 1025 ENTRE LAS CALLES AQUILES SERDÁN Y AV. DEL PARQUE, COL. TIERRA NUEVA, C.P. 02430, DELEG. AZCAPOTZALCO, D.F.",
+    "lat": "19.5029965012918",
+    "long": "-99.20315083097445"
+  },
+  {
+    "id": "25",
+    "name": "Red Barn Stores 2033-PLAZA ORIENTE",
+    "address": "AV. CANAL DE TEZONTLE NO. 1520 COL. DR. ALFONSO ORTIZ TIRADO DELEG. IZTAPALAPA D.F. C.P.09020",
+    "lat": "19.384528955331014",
+    "long": "-99.07892331673042"
+  },
+  {
+    "id": "26",
+    "name": "Red Barn Stores 1460-CUEMANCO",
+    "address": "CAÑAVERALES #222 COL.GRANJAS COAPA DELEGACION TLALPAN C.P.14330",
+    "lat": "19.294535733079513",
+    "long": "-99.10762373864102"
+  },
+  {
+    "id": "27",
+    "name": "Red Barn Stores 2382-INTERLOMAS",
+    "address": "BLVD. MAGNOCENTRO NO. 35, LOTE 1, MANZANA II, COL  BOSQUES DE LAS PALMAS, HUIXQUILUCAN, EDO. DE MEXICO, C.P. 52787",
+    "lat": "19.40557423502688",
+    "long": "-99.27354547440211"
+  },
+  {
+    "id": "28",
+    "name": "Red Barn Stores 3504-AV. JESUS DEL MONTE",
+    "address": "BLVD. PASEO INTERLOMAS # 5 ENTRE LAS CALLES PASEO INTERLOMAS Y JESUS DEL MONTE, COL. GREEN HOUSE SEGUNDA ETAPA, CP 52779, HUIXQUILUCAN EDO MEX",
+    "lat": "19.399395101142034",
+    "long": "-99.28801997440216"
+  },
+  {
+    "id": "29",
+    "name": "Red Barn Stores 2343-TOLUCA",
+    "address": "PASEO TOLLOCAN NO. 600 COL. SECTOR PROGRESO, C.P.50150 TOLUCA EDO. DE MÉXICO",
+    "lat": "19.28116544692892",
+    "long": "-99.63941218974804"
+  },
+  {
+    "id": "30",
+    "name": "Red Barn Stores 3263-PILARES",
+    "address": "AV. BAJA VELOCIDAD NO. 1201 ORIENTE, ENTRE LAS CALLES PRIVADA CERRADA BERNARDO VARA Y TOLLOCAN II, COL. SAN JERÓNIMO CHICAHUALCO, CP 52170, METEPEC, MEX.",
+    "lat": "19.28512150869259",
+    "long": "-99.59137817440403"
+  },
+  {
+    "id": "31",
+    "name": "Red Barn Stores 3790-METEPEC",
+    "address": "LEONA VICARIO NO. 502, COL LA PURISIMA, C.P. 52840, METEPEC, EDO DE MÉXICO.",
+    "lat": "19.257861442922735",
+    "long": "-99.62041721858445"
+  },
+  {
+    "id": "32",
+    "name": "Red Barn Stores 5702-SANTIN",
+    "address": "VIALIDAD TOLUCA-NAUCALPAN NO. 1101, SAN MATEO OTZACATIPAN,TOLUCA EDO. MEX. CP. 50200.",
+    "lat": "19.3518700631694",
+    "long": "-99.59122908974695"
+  },
+  {
+    "id": "33",
+    "name": "Red Barn Stores 5791-ZINACANTEPEC",
+    "address": "BOULEVARD ADOLFO LÓPEZ MATEOS NO. 117 COL. OJUELOS ZINACANTEPEC C.P. 51350.",
+    "lat": "19.2887586389416",
+    "long": "-99.69817608789596"
+  },
+  {
+    "id": "34",
+    "name": "Red Barn Stores 5825-ALFREDO DEL MAZO",
+    "address": "BOULEVARD ALFREDO DEL MAZO NO. 503 COL. JARDINES DE TLACOPA TOLUCA C.P. 50071.",
+    "lat": "19.30863646874199",
+    "long": "-99.63275324741967"
+  },
+  {
+    "id": "35",
+    "name": "Red Barn Stores 1044-SAN MARCOS IZCALLI",
+    "address": "AV. CHALMA NO. 281 COL. JARDINES DE LA HACIENDA, CUAUTITLAN IZCALLI, EDO. DE MEX. C.P. 54720.",
+    "lat": "19.67147564861581",
+    "long": "-99.20499458974179"
+  },
+  {
+    "id": "36",
+    "name": "Red Barn Stores 1423-SANTA ELENA",
+    "address": "CARRETERA CUAUTITLAN-TULTEPEC NO. 2 ENTRE LAS CALLES SANTA LUCIA Y CAMINO VIEJO EL QUEMADO, COL. TERREMOTO C.P. 54850, CUAUTITLAN EDO. DE MEX.",
+    "lat": "19.677699125772524",
+    "long": "-99.14831148788969"
+  },
+  {
+    "id": "37",
+    "name": "Red Barn Stores 1834-PLAZA DEL LAGO",
+    "address": "AV. CUAUTITLÁN IZCALLI S/N ESQ. TENANGO DEL VALLE, COL. CUAUTITLÁN IZCALLI, C.P. 54700, CUAUTITLÁN IZCALLI, EDO. DE MÉX.",
+    "lat": "19.646446690433148",
+    "long": "-99.20493169481011"
+  },
+  {
+    "id": "38",
+    "name": "La Tienda Especiál 1001-San Buenaventura",
+    "address": "Paseo San Buenaventura No. 15, Esq. Paseo de Las Lomas, San Buenaventura, Municipio de Ixtapaluca, Estado de México, C.P. 56536.",
+    "lat": "19.309965741897162",
+    "long": "-98.86073711673164"
+  },
+  {
+    "id": "39",
+    "name": "Red Barn Stores 2643-NICOLAS ROMERO",
+    "address": "BLVD. ARTURO MONTIEL ROJAS KM 10+700 ENTRE LAS CALLES AV. DE LAS FLORES Y CALLE 6 DE ENERO, COL. AMPLIACION VISTA HERMOSA, C.P. 54414 NICOLAS ROMERO, EDO. DE MEX.",
+    "lat": "19.627014318527106",
+    "long": "-99.29224820138253"
+  },
+  {
+    "id": "40",
+    "name": "Red Barn Stores 3900-COACALCO",
+    "address": "VIA JOSE LOPEZ PORTILLO NO 101. COL. ZACUAUTITLA, C.P. 55710 COACALCO DE BERRIOZABAL, EDO DE MEX.",
+    "lat": "19.630079482084135",
+    "long": "-99.12450588974244"
+  },
+  {
+    "id": "41",
+    "name": "Red Barn Stores 4018-SANTA MARÍA COACALCO",
+    "address": "VÍA JOSÉ LÓPEZ PORTILLO NO. 2 COL. SAN FRANCISCO COACALCO, C.P. 55712 COACALCO DE BERRIOZABAL, EDO. DE MEX.",
+    "lat": "19.63014309260613",
+    "long": "-99.12376937439844"
+  },
+  {
+    "id": "42",
+    "name": "La Tienda Especiál 1002-Teotihuacán",
+    "address": "Avenida Cruz de la Misión #8 San JuanTeotihuacán, Edo de Méx C.P. 55800.",
+    "lat": "19.681575523671462",
+    "long": "-98.86468594556159"
+  },
+  {
+    "id": "43",
+    "name": "Red Barn Stores 2041-TOLTECAS",
+    "address": "AV. HIDALGO S/N  COL. INDUSTRIAL TLAXCOLPAN CP 54030 , TLALNEPANTLA DE BAZ, EDO. DE MEX.",
+    "lat": "19.550573416199338",
+    "long": "-99.19392506275973"
+  },
+  {
+    "id": "44",
+    "name": "SuperStore 3849-ESMERALDA",
+    "address": "Vía Doctor Jorge Jimenez Cantu S/N Col. Plaza Del Condado C.P. 52930 Atizapán de Zaragoza, Edo. De Mexico.",
+    "lat": "19.55321949772981",
+    "long": "-99.28886640206305"
+  },
+  {
+    "id": "45",
+    "name": "Red Barn Stores 1032-LOMAS VERDES",
+    "address": "SUPER CARRETERA LOMAS VERDES NO. 1200 VI SECCIÓN LOMAS VERDES; NAUCALPAN, ED. MEXICO C.P. 53120.",
+    "lat": "19.51616261122756",
+    "long": "-99.26785340323629"
+  },
+  {
+    "id": "46",
+    "name": "Red Barn Stores 1584-ESPACIO ESMERALDA",
+    "address": "AV. DR. JORGE JIMENEZ CANTU SN, ENTRE LAS CALLES ESTADIA Y RESIDENCIA CHILUCA, COL. LA ESTADIA C.P. 52936 ATIZAPAN EDO. DE MEX.",
+    "lat": "19.659364059257808",
+    "long": "-99.207301405086"
+  },
+  {
+    "id": "47",
+    "name": "Red Barn Stores 3847-SATELITE",
+    "address": "CIRCUITO 19 METALURGISTAS NO. 2 CD. SATELITE  C.P. 53100  NAUCALPAN DE JUAREZ, EDO. DE MEX.",
+    "lat": "19.515744486098328",
+    "long": "-99.23113007069638"
+  },
+  {
+    "id": "48",
+    "name": "Red Barn Stores 3850-ECHEGARAY",
+    "address": "EMILIANO ZAPATA NO 7  COL. SANTA MARÍA NATIVITAS C.P. 05320 EDO. DE MEX.",
+    "lat": "19.484852110360713",
+    "long": "-99.23286608917232"
+  },
+  {
+    "id": "49",
+    "name": "Red Barn Stores 3854-PIRULES",
+    "address": "BLVD. MANUEL AVILA CAMACHO NO. 2550  FRACC. LOS PIRULES  C.P. 54050  TLALNEPANTLA EDO. DE MEX.",
+    "lat": "19.543149323390978",
+    "long": "-99.21403106090784"
+  },
+  {
+    "id": "50",
+    "name": "Red Barn Stores 1169-MULTIPLAZA ARBOLEDAS",
+    "address": "AUTOPISTA  MEXICO-QUERETARO NO. 3985 COL. CENTRO INDUSTRIAL TLALNEPANTLA CP 54030 MPO. TLANEPANTLA DE BAZ, ESTADO DE MEXICO.",
+    "lat": "19.546160516614023",
+    "long": "-99.20898674961273"
+  }
+]
